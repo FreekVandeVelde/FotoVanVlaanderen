@@ -6,4 +6,4 @@ Er zijn twee bestanden beschikbaar:
 1. Het rapport zelf: 'OnderzoeksrapportFotoVanVlaaderen_FreekVandeVelde' (.pdf)
 2. De R code: 'FotoVanVlaanderenFreekVandeVelde.R' (.R)
 
-Wie gebruik wil maken van het rapport of de R code, eruit wil citeren, of het wil verspreiden via klassieke of sociale media, gelieve te verwijzen: "Van de Velde, Freek. 2026. 'Onderzoeksrapport data Foto van Vlaanderen'. Publiek onderzoeksrapport. Beschikbaar op https://github.com/FreekVandeVelde/FotoVanVlaanderen/"
+Wie gebruik wil maken van het rapport of de R code, eruit wil citeren, of het wil verspreiden via klassieke of sociale media, gelieve te verwijzen: "Van de Velde, Freek. 2026. 'Onderzoeksrapport data Foto van Vlaanderen'. Publiek onderzoeksrapport. Beschikbaar op [https://github.com/FreekVandeVelde/FotoVanVlaanderen/](https://github.com/FreekVandeVelde/FotoVanVlaanderen/blob/main/Onderzoeksrapport_FotoVanVlaanderen_FreekVandeVelde.pdf)"
